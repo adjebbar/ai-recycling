@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "appName": "EcoScan AI",
+    "scan": "Scan",
+    "rewards": "Rewards",
+    "challenges": "Challenges",
+    "leaderboard": "Leaderboard",
+    "points": "{{count}} Points",
+    "myAccount": "My Account",
+    "profile": "Profile",
+    "admin": "Admin",
+    "logout": "Logout",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "home": {
+    "hero": {
+      "recycle": "Recycle. ",
+      "earnRepeat": "Earn. Repeat."
+    },
+    "subtitle": "Turn your plastic waste into rewards. Join our community and make a difference, one bottle at a time.",
+    "startScanning": "Start Scanning",
+    "yourPoints": "Your Points",
+    "nextReward": "Next Reward",
+    "pointsProgress": "{{points}} / {{cost}} points",
+    "allRewardsUnlocked": "All Rewards Unlocked!",
+    "allRewardsUnlockedDesc": "You've unlocked all available rewards. Great job!"
+  },
+  "rewardsCarousel": {
+    "title": "Available Rewards"
+  },
+  "challenges": {
+    "title": "Challenges",
+    "subtitle": "Complete challenges to earn bonus points and unlock achievements.",
+    "points": "Points",
+    "claimed": "Claimed",
+    "claim": "Claim",
+    "locked": "Locked"
+  },
+  "profile": {
+    "title": "My Profile",
+    "totalPoints": "Total Points",
+    "bottlesRecycled": "Bottles Recycled",
+    "achievements": "Achievements",
+    "recentActivity": "Recent Activity",
+    "recentActivityDescription": "Here's a list of your most recent scans.",
+    "date": "Date",
+    "barcode": "Barcode",
+    "points": "Points Earned"
+  },
+  "achievements": {
+    "firstScanName": "First Scan",
+    "firstScanDescription": "Scan your very first bottle.",
+    "noviceRecyclerName": "Novice Recycler",
+    "noviceRecyclerDescription": "Scan 10 bottles.",
+    "pointCollectorName": "Point Collector",
+    "pointCollectorDescription": "Earn 100 points.",
+    "dedicatedRecyclerName": "Dedicated Recycler",
+    "dedicatedRecyclerDescription": "Scan 50 bottles.",
+    "pointsHoarderName": "Points Hoarder",
+    "pointsHoarderDescription": "Earn 500 points."
+  },
+  "scanner": {
+    "title": "Scan a Bottle",
+    "subtitle": "Point your camera at a plastic bottle's barcode to earn points.",
+    "cameraTab": "Camera",
+    "manualTab": "Manual Entry",
+    "manualTitle": "Enter Barcode Manually",
+    "manualDescription": "If your camera isn't working, you can type the barcode below.",
+    "manualPlaceholder": "Enter barcode number...",
+    "manualButton": "Submit",
+    "cameraPermission": "Camera not working? Make sure you've granted permission.",
+    "verifying": "Verifying barcode...",
+    "success": "+{{points}} points! Bottle recycled.",
+    "signupPromptTitle": "Save Your Progress!",
+    "signupPromptDescription": "Create an account to save your points and access more features.",
+    "notPlastic": "This doesn't seem to be a plastic bottle.",
+    "notFound": "Product not found in our database.",
+    "connectionError": "Could not connect to the database. Please check your internet."
+  }
+}

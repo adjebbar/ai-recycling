@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "appName": "EcoScan AI",
+    "scan": "مسح",
+    "rewards": "المكافآت",
+    "challenges": "التحديات",
+    "leaderboard": "لوحة الصدارة",
+    "points": "{{count}} نقطة",
+    "myAccount": "حسابي",
+    "profile": "الملف الشخصي",
+    "admin": "المسؤول",
+    "logout": "تسجيل الخروج",
+    "login": "تسجيل الدخول",
+    "signup": "التسجيل"
+  },
+  "home": {
+    "hero": {
+      "recycle": "أعد التدوير. ",
+      "earnRepeat": "اكسب. كرر."
+    },
+    "subtitle": "حوّل نفاياتك البلاستيكية إلى مكافآت. انضم إلى مجتمعنا وأحدث فرقًا، زجاجة تلو الأخرى.",
+    "startScanning": "ابدأ المسح",
+    "yourPoints": "نقاطك",
+    "nextReward": "المكافأة التالية",
+    "pointsProgress": "{{points}} / {{cost}} نقطة",
+    "allRewardsUnlocked": "تم فتح جميع المكافآت!",
+    "allRewardsUnlockedDesc": "لقد فتحت جميع المكافآت المتاحة. عمل رائع!"
+  },
+  "rewardsCarousel": {
+    "title": "المكافآت المتاحة"
+  },
+  "challenges": {
+    "title": "التحديات",
+    "subtitle": "أكمل التحديات لكسب نقاط إضافية وفتح الإنجازات.",
+    "points": "نقاط",
+    "claimed": "تم الاستلام",
+    "claim": "استلام",
+    "locked": "مغلق"
+  },
+  "profile": {
+    "title": "ملفي الشخصي",
+    "totalPoints": "مجموع النقاط",
+    "bottlesRecycled": "الزجاجات المعاد تدويرها",
+    "achievements": "الإنجازات",
+    "recentActivity": "النشاط الأخير",
+    "recentActivityDescription": "قائمة بآخر عمليات المسح التي قمت بها.",
+    "date": "التاريخ",
+    "barcode": "الباركود",
+    "points": "النقاط المكتسبة"
+  },
+  "achievements": {
+    "firstScanName": "المسح الأول",
+    "firstScanDescription": "امسح أول زجاجة لك.",
+    "noviceRecyclerName": "مُعيد تدوير مبتدئ",
+    "noviceRecyclerDescription": "امسح 10 زجاجات.",
+    "pointCollectorName": "جامع النقاط",
+    "pointCollectorDescription": "اكسب 100 نقطة.",
+    "dedicatedRecyclerName": "مُعيد تدوير متفانٍ",
+    "dedicatedRecyclerDescription": "امسح 50 زجاجة.",
+    "pointsHoarderName": "مكتنز النقاط",
+    "pointsHoarderDescription": "اكسب 500 نقطة."
+  },
+  "scanner": {
+    "title": "امسح زجاجة",
+    "subtitle": "وجّه الكاميرا إلى باركود زجاجة بلاستيكية لكسب النقاط.",
+    "cameraTab": "الكاميرا",
+    "manualTab": "إدخال يدوي",
+    "manualTitle": "أدخل الباركود يدويًا",
+    "manualDescription": "إذا كانت الكاميرا لا تعمل، يمكنك كتابة الباركود أدناه.",
+    "manualPlaceholder": "أدخل رقم الباركود...",
+    "manualButton": "إرسال",
+    "cameraPermission": "الكاميرا لا تعمل؟ تأكد من منح الإذن.",
+    "verifying": "جارٍ التحقق من الباركود...",
+    "success": "+{{points}} نقطة! تم إعادة تدوير الزجاجة.",
+    "signupPromptTitle": "احفظ تقدمك!",
+    "signupPromptDescription": "أنشئ حسابًا لحفظ نقاطك والوصول إلى المزيد من الميزات.",
+    "notPlastic": "لا يبدو أن هذه زجاجة بلاستيكية.",
+    "notFound": "المنتج غير موجود في قاعدة بياناتنا.",
+    "connectionError": "تعذر الاتصال بقاعدة البيانات. يرجى التحقق من اتصالك بالإنترنت."
+  }
+}
